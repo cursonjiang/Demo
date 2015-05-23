@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActionBarDemo" />
+            <option value="$PROJECT_DIR$/BaseAdapterDemo" />
+            <option value="$PROJECT_DIR$/DownloadDemo" />
+            <option value="$PROJECT_DIR$/DrawerLayoutDemo" />
+            <option value="$PROJECT_DIR$/PhotoView-library" />
+            <option value="$PROJECT_DIR$/PhotoViewSample" />
+            <option value="$PROJECT_DIR$/Picasso-sample" />
+            <option value="$PROJECT_DIR$/PicassoDemo" />
+            <option value="$PROJECT_DIR$/PullToRefreshDemo" />
+            <option value="$PROJECT_DIR$/PullToRefreshLibrary" />
+            <option value="$PROJECT_DIR$/RecyclerViewDemo" />
+            <option value="$PROJECT_DIR$/SlidingMenuDemo" />
+            <option value="$PROJECT_DIR$/SlidingMenuLlibrary" />
+            <option value="$PROJECT_DIR$/SwipeRefreshLayoutDemo" />
+            <option value="$PROJECT_DIR$/TweenDemo" />
+            <option value="$PROJECT_DIR$/UniversalImageLoader-sample" />
+            <option value="$PROJECT_DIR$/UniversalImageLoaderDemo" />
+            <option value="$PROJECT_DIR$/ViewPagerDemo" />
+            <option value="$PROJECT_DIR$/VolleyDemo" />
+            <option value="$PROJECT_DIR$/WebWiewDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

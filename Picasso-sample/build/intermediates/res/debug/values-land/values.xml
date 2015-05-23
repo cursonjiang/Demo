@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/jiangbingchen/Documents/AndroidStudioProjects/Demo/Picasso-sample/res/values-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="faux_action_bar_size">40dp</dimen>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActionBarDemo/ActionBarDemo.iml" filepath="$PROJECT_DIR$/ActionBarDemo/ActionBarDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseAdapterDemo/BaseAdapterDemo.iml" filepath="$PROJECT_DIR$/BaseAdapterDemo/BaseAdapterDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DownloadDemo/DownloadDemo.iml" filepath="$PROJECT_DIR$/DownloadDemo/DownloadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawerLayoutDemo/DrawerLayoutDemo.iml" filepath="$PROJECT_DIR$/DrawerLayoutDemo/DrawerLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoView-library/PhotoView-library.iml" filepath="$PROJECT_DIR$/PhotoView-library/PhotoView-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoViewSample/PhotoViewSample.iml" filepath="$PROJECT_DIR$/PhotoViewSample/PhotoViewSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Picasso-sample/Picasso-sample.iml" filepath="$PROJECT_DIR$/Picasso-sample/Picasso-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PicassoDemo/PicassoDemo.iml" filepath="$PROJECT_DIR$/PicassoDemo/PicassoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefreshDemo/PullToRefreshDemo.iml" filepath="$PROJECT_DIR$/PullToRefreshDemo/PullToRefreshDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefreshLibrary/PullToRefreshLibrary.iml" filepath="$PROJECT_DIR$/PullToRefreshLibrary/PullToRefreshLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewDemo/RecyclerViewDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewDemo/RecyclerViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenuDemo/SlidingMenuDemo.iml" filepath="$PROJECT_DIR$/SlidingMenuDemo/SlidingMenuDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenuLlibrary/SlidingMenuLlibrary.iml" filepath="$PROJECT_DIR$/SlidingMenuLlibrary/SlidingMenuLlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeRefreshLayoutDemo/SwipeRefreshLayoutDemo.iml" filepath="$PROJECT_DIR$/SwipeRefreshLayoutDemo/SwipeRefreshLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TweenDemo/TweenDemo.iml" filepath="$PROJECT_DIR$/TweenDemo/TweenDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversalImageLoader-sample/UniversalImageLoader-sample.iml" filepath="$PROJECT_DIR$/UniversalImageLoader-sample/UniversalImageLoader-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversalImageLoaderDemo/UniversalImageLoaderDemo.iml" filepath="$PROJECT_DIR$/UniversalImageLoaderDemo/UniversalImageLoaderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerDemo/ViewPagerDemo.iml" filepath="$PROJECT_DIR$/ViewPagerDemo/ViewPagerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VolleyDemo/VolleyDemo.iml" filepath="$PROJECT_DIR$/VolleyDemo/VolleyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebWiewDemo/WebWiewDemo.iml" filepath="$PROJECT_DIR$/WebWiewDemo/WebWiewDemo.iml" />
+    </modules>
+  </component>
+</project>

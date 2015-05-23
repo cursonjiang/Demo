@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/jiangbingchen/Documents/AndroidStudioProjects/Demo/Picasso-sample/res/values-w500dp/integers.xml -->
+    <eat-comment/>
+    <integer name="column_count">3</integer>
+</resources>

@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <!--ActionView是一种可以在ActionBar中替换Action按钮的控件-->
+    <!--collapseActionView，这个值表示该控件可以被合并成一个Action按钮-->
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/action_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@mipmap/ic_action_search"
+        android:showAsAction="ifRoom|collapseActionView"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:showAsAction="never"/>
+
+    <!--ShareActionProvider会自己处理它的显示和事件，
+    但我们仍然要记得给它添加一个title，以防止它会在overflow当中出现-->
+
+    <item
+        android:id="@+id/action_share"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_share"/>
+
+    <!--自定义ActionProvider-->
+    <!--<item-->
+        <!--android:id="@+id/action_share"-->
+        <!--android:actionProviderClass="com.curson.actionbar.MyActionProvider"-->
+        <!--android:icon="@mipmap/ic_launcher"-->
+        <!--android:showAsAction="ifRoom"-->
+        <!--android:title="@string/action_share"-->
+        <!--/>-->
+</menu>
